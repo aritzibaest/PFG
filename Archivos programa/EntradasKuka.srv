@@ -1,0 +1,5 @@
+std_msgs/String Nombre
+std_msgs/Int64 Numero
+std_msgs/Bool entrada
+---
+std_msgs/Bool salida
